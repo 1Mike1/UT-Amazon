@@ -1,0 +1,15 @@
+{
+    "name": "ut-amazon.mithlesh-kumar",
+    "description": "An unofficial web app of amazon for ubuntu touch",
+    "architecture": "@CLICK_ARCH@",
+    "title": "UT-Amazon",
+    "hooks": {
+        "ut-amazon": {
+            "apparmor": "ut-amazon.apparmor",
+            "desktop":  "ut-amazon.desktop"
+        }
+    },
+    "version": "1.0.1",
+    "maintainer": "Mithlesh Kumar <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

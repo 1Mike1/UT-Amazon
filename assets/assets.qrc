@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>logo.svg</file>
+        <file>cart.png</file>
+        <file>back.png</file>
+        <file>next.png</file>
+        <file>home.png</file>
+        <file>location.png</file>
+    </qresource>
+</RCC>

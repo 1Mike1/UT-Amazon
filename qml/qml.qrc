@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Components/NavBar.qml</file>
+        <file>Components/ButtonItem.qml</file>
+    </qresource>
+</RCC>
